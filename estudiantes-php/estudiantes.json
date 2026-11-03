@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "Anuar",
+        "apellido": "Vargas",
+        "edad": 20,
+        "codigo": "106624424",
+        "carrera": "Ingenieria de Sistemas"
+    },
+    {
+        "nombre": "Adolfo",
+        "apellido": "Montaño",
+        "edad": 33,
+        "codigo": "222",
+        "carrera": "SIS"
+    }
+]

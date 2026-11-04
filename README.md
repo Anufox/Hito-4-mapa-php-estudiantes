@@ -20,5 +20,5 @@ estudiantes-php/
     Estudiante.php
   Controllers/
     EstudianteController.php
-## Formulario web
+# Formulario web
 Entrar a `http://localhost/estudiantes-php/`, llenar los campos y presionar "Registrar". El navegador muestra la respuesta en JSON. El enlace "Ver estudiantes" muestra la lista.

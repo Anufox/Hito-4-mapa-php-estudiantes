@@ -2,9 +2,9 @@
 ## Descripcion
 PHP Q registra y consulta estudiantes con peticiones GET y POST esto usa:
 - Herencia: Estudiante hereda de Persona.
-- Encapsulamiento: atributos protected con getters y setters.
-- Tipos estrictos: declare(strict_types=1); y tipos en propiedades, parametros y retornos.
-- Mapa: EstudianteController guarda los estudiantes en un arreglo y no deja repetir codigos.
+- Encapsulamiento: "atributos protected" con getters y setters.
+- Tipos estrictos: "declare(strict_types=1)"; y tipos en propiedades, parametros y retornos.
+- Mapa:"EstudianteController" guarda los estudiantes en un arreglo y no deja repetir codigos.
   
 posdata se me bugueo el git hub al enviar poreso lo mande asi
 
